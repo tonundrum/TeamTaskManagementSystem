@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teamtaskmanagement", "teamtaskmanagement\teamtaskmanagement.csproj", "{C4A74E03-950C-48E4-8F6C-2B27D9D75AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A74E03-950C-48E4-8F6C-2B27D9D75AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A74E03-950C-48E4-8F6C-2B27D9D75AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A74E03-950C-48E4-8F6C-2B27D9D75AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A74E03-950C-48E4-8F6C-2B27D9D75AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6632EFB4-1656-4C6E-8FA2-282EC2C06E5B}
+	EndGlobalSection
+EndGlobal
